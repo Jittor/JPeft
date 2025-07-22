@@ -1,1 +1,0 @@
-# NonLocal Net

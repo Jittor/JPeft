@@ -74,7 +74,6 @@ You can test and visualize results on your own image sets by:
 python tools/run_net.py --config-file=configs/peft_resnet/s2anet_r50_fpn_1x_dota_full.py --task=vis_test
 ```
 You can choose the visualization style you prefer, for more details about visualization, please refer to [visualization.md](docs/visualization.md).
-<img src="https://github.com/Jittor/JDet/blob/visualization/docs/images/vis2.jpg?raw=true" alt="Visualization" width="800"/>
 
 ### Build a New Project
 In this section, we will introduce how to build a new project(model) with JDet.
